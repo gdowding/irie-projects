@@ -1,0 +1,24 @@
+* overview
+** Install bags
+** install redirect blocks
+** re-route starboard spin halyard
+** Backstay
+*** install dyneema backstay
+     - install backstay
+     - rebuild cascade
+** new port guy
+** electronics
+*** compass / heading
+    - design compass install
+*** MFD
+    - design mfd install
+*** integrate existing sensors with anything new
+*** autopilot
+*** recallibrate speed
+*** recallibrate wind
+*** processor
+*** data capture
+** replace forestay and foil
+** replace bottom with hard paint
+** get on a regular maintaince schedule
+** cover for engine control
