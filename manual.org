@@ -1,0 +1,124 @@
+#+options: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+options: author:t broken-links:nil c:nil creator:nil
+#+options: d:(not "LOGBOOK") date:t e:t email:nil f:t inline:t num:t
+#+options: p:nil pri:nil prop:nil stat:t tags:t tasks:t tex:t
+#+options: timestamp:t title:t toc:t todo:t |:t
+#+title: manual
+#+date: <2023-01-07 Sat>
+#+author: George Dowding
+#+email: pyrios@gmail.com
+#+language: en
+#+select_tags: export
+#+exclude_tags: noexport
+#+creator: Emacs 28.2 (Org mode 9.5.5)
+#+cite_export:
+
+* Setup and Teardown Checklists
+
+** Pre Race
+*** running rigging
+Note: install sheets in order so spin sheets will be over all other sheets
+1. jib/genoa sheets
+   outside shrouds for GP1, inside shrouds for J3
+2. spin guys
+3. spin sheets
+   - default is to set up for hoisting sail on port side.
+   - sheets come from outside of lifelines to turning blocks then back
+     up to cabin top around the front of the secondary winches and
+     down into the companionway.
+*** rig tune
+- adjust the rig based on expected wind at the dock
+*** unplug power and leave on dock
+- note close the door on the power inlet. This will help keep water
+  out of the inlet
+  # TODO picture
+*** Remove all but one fenders and leave on dock
+Leave one fender attached midship. Remove all of the other fenders and
+tie them to the dock so they can protect the boat before launching and
+on return.
+*** Remove any used course tape from the bulkhead and replace
+*** store storm board
+# TODO where should this go?
+*** Turn on electronics
+- Instruments
+- Mounted VHF
+  - STYC (Ballard Cup, etc.) 72
+  - CYC is usually 69
+- Handheld VHF
+- turn on velocitek pro start and insert into console mount
+*** Get winch handles 
+*** Store Crew Bags by mast
+Do not store bags anywhere else.
+*** Water Bottles may be stored in sink or refrigerator
+*** Food may be stored in refrigerator
+*** Engine Check
+- oil level
+- coolant level
+- comparment check
+  look for anything broken or worn
+- add entry to log including engine hours
+
+* Sail Inventory
+** main
+- 1 reef
+- adjusting battens
+# TODO: get sailbag for main
+** Upwind
+*** Ballard Sails GP1
+General Purpose Geneoa 0kn - 15kn
+Identified by black band and GP1 on sailbag
+Also referred to as geneoa or #1. A racing geneoa would be made of
+lighter material to perform better in lighter wind, but with less high
+end range. 
+# TODO add picture of bag
+*** Ballard Sails J3
+Racing Jib  15kn - 25kn
+# TODO get better idea for wind range
+Identified by red band and J3 on sailbag
+Also referred to as jib or #3
+# TODO add picture of bag
+** Downwind
+*** Doyle Class S1
+0 - 5kn
+Identified as white sail with Doyle logo. Also referred to as a 1/2
+oz. or 0.5 ounce refering to the weight of the sail material
+
+This sail is in excellent shape and should be used for races where there is light wind.
+
+Because this is a class sail, the size is limited by class rules. A
+PHRF S1 could be larger.
+# TODO get better idea for upper limit of wind range or when to switch
+# to S2.
+*** North Clas S1
+0 - 5kn
+Identified as white sail with North logo. This also has 0.5 oz material
+
+This sail is kind of old and should be used for practices or
+inexperienced crew.
+
+*** Ballard Sails PHRF S2
+5kn - 12kn
+# TODO get a better idea for the upper and lower limits
+Identified as an orange sail with a Ballard Sails logo. It should be
+stored in the Ballard Sails launch bag.
+
+This sail is almost band new. It should be use while racing for
+moderate wind.
+
+Because this is a PHRF sail it has the maximum size allowed without
+affecting our rating.
+
+*** North Sails Class S4
+12kn - 20kn
+# TODO get a better idea for upper limit of wind range
+Identified as a blue sail with Nort Sails logo
+
+This is a heavy wind sail. It should be used when the wind gets over
+12kn. It is in good shape as it doesn't get used very often. This is a
+class sail so it has class size limitations, but since this is used
+for heavy air it may not be as much of a performance disadvantage
+
+
+
+
+
